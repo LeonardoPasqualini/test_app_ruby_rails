@@ -1,1 +1,1 @@
-First Test repo on the Compete Ruby on Rails Developer course by Mashrur Hossain on Udemy
+First Test repo on the Complete Ruby on Rails Developer course by Mashrur Hossain on Udemy
